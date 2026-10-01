@@ -31,7 +31,6 @@ CSE student who has loved computers since 2nd grade. I enjoy building websites a
 ![SQL](https://img.shields.io/badge/-SQL-336791)
 
 ## GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Xandriel-2005&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xandriel-2005&layout=compact&hide_border=true)
 
 ## Connect
